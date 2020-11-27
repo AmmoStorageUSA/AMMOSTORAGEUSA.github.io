@@ -45,6 +45,11 @@ let data = [
         count: "20 round box",
         price: "$18"
     }, {
+        img: "img/223_Federal_AE223.jpg",
+        desc: "Federal American Eagle .223 Remington 55 Grain FMJ-BT",
+        count: "20 round box",
+        price: "$18"
+    }, {
         img: "img/45_Magtech 45A.jpg",
         desc: "Magtech .45ACP 230 Grain FMJ",
         count: "50 round box",
