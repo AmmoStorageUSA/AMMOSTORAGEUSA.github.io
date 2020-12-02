@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="manifest" href="/manifest.webmanifest">
-    <meta name="theme-color" content="#212529"/>
+    <meta name="theme-color" content="#212529" />
     <meta name="Description" content="Take a look at our ammo listings.">
     <link rel="apple-touch-icon" sizes="180x180" href="img/touch/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="img/touch/favicon-32x32.png">
@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="css/application.min.css">
     <title>Ammo Storage USA | Ammo</title>
 </head>
+
 <body class="d-flex flex-column bg-dark text-light">
     <nav class="navbar navbar-expand-lg navbar-dark">
         <div class="container">
@@ -42,11 +43,14 @@
                 </ul>
                 <div class="form-check form-switch ml-auto">
                     <input class="form-check-input" type="checkbox" id="themeToggle" checked>
-                    <label class="form-check-label" for="themeToggle"><small class="text-muted">Toggle DarkMode</small></label>
+                    <label class="form-check-label" for="themeToggle"><small class="text-muted">Toggle
+                            DarkMode</small></label>
                 </div>
             </div>
         </div>
     </nav>
+
+    <!-- Begin DPMS Section -->
     <section class="px-5 py-10 bg-dark">
         <div class="container">
             <div class="row">
@@ -58,40 +62,99 @@
                 </div>
                 <div class="col-md-6">
                     <div class="ratio ratio-16x9">
-                        <img src="img/dpms/dpms01.jpg" class="img-thumbnail shadow-lg" alt="New DPMS A-15 Mini Sass Chambered in 5.56 NATO">
+                        <img src="img/dpms/dpms01.jpg" class="img-thumbnail shadow-lg"
+                            alt="New DPMS A-15 Mini Sass Chambered in 5.56 NATO">
                     </div>
                 </div>
             </div>
         </div>
     </section>
+    <!-- End DPMS Section -->
+
+    <!-- Begin Testimonial Section -->
+    <section class="py-10">
+        <div id="carouselExampleDark" class="container carousel carousel-light slide" data-ride="carousel">
+            <div class="carousel-inner">
+                <!-- adding more carousel-item adds more to the cycle -->
+                <div class="carousel-item active" data-interval="10000">
+                    <figure class="col-6 offset-3">
+                        <!-- text in blockquote is the testimonial -->
+                        <blockquote class="blockquote">
+                            <p>"Awesom customer service. Very helpful with any questions I had. Also, quick delivery,
+                                and easy to order."</p>
+                        </blockquote>
+                        <!-- text in blockquote-footer is `who said it` -->
+                        <figcaption class="blockquote-footer">
+                            Bob, Pleasanton, TX
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="carousel-item" data-interval="2000">
+                    <figure class="col-6 offset-3">
+                        <blockquote class="blockquote">
+                            <p>"A+: The only thing that slowed down the delivery was the hurricane, thank you!"</p>
+                        </blockquote>
+                        <figcaption class="blockquote-footer">
+                            Travis, Spring Hill, FL
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="carousel-item">
+                    <figure class="col-6 offset-3">
+                        <blockquote class="blockquote">
+                            <p>"Fast & Secure shipping, and great communication. Thanks!"</p>
+                        </blockquote>
+                        <figcaption class="blockquote-footer">
+                            Ignacio, Lakewood, CO
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleDark" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleDark" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </a>
+        </div>
+    </section>
+    <!-- End Testimonial Section -->
+
+    <!-- Begin Ammo/Listing Table -->
     <section class="p-5">
         <div class="container">
             <h2 id="listings" class="display-4 text-center">Ammunition &amp; Magazines for Sale</h2>
             <table id="producttable" class="table table-dark align-middle">
-                <caption>Cash or PayPal payments accepted <br/> Buyer pays actual shipping cost <br/> Will Ship Lower 48 except: California, Colorado, Connecticut, Hawaii, Maryland, Massachusetts, New Jersey, New York, and Vermont.</caption>
+                <caption>Cash or PayPal payments accepted <br /> Buyer pays actual shipping cost <br /> Will Ship Lower
+                    48 except: California, Colorado, Connecticut, Hawaii, Maryland, Massachusetts, New Jersey, New York,
+                    and Vermont.</caption>
                 <thead>
-                  <tr>
-                    <th>image</th>
-                    <th>description</th>
-                    <th>count/packaging</th>
-                    <th>cost</th>
-                  </tr>
+                    <tr>
+                        <th>image</th>
+                        <th>description</th>
+                        <th>count/packaging</th>
+                        <th>cost</th>
+                    </tr>
                 </thead>
                 <tbody>
-                  <!-- existing data could optionally be included here -->
+                    <!-- existing data could optionally be included here -->
                 </tbody>
-              </table>
-              
-              <template id="productrow">
+            </table>
+
+            <template id="productrow">
                 <tr>
-                  <td class="record"></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
+                    <td class="record"></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
                 </tr>
-              </template>
+            </template>
         </div>
     </section>
+    <!-- End Ammo/Listing Table -->
+    
     <footer class="mt-auto p-2 text-center">
         &copy; 2020 ammostorageusa.com | All Rights Reserved
     </footer>

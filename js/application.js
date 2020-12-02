@@ -13,6 +13,8 @@ const toggleTheme = () => {
     const borderDark = document.querySelectorAll('.border-dark');
     const lightTables = document.querySelectorAll('.table-light');
     const darkTables = document.querySelectorAll('.table-dark');
+    const lightCarousel = document.querySelectorAll('.carousel-light');
+    const darkCarousel = document.querySelectorAll('.carousel-dark');
 
     if (lightBackgrounds.length) {
         lightBackgrounds.forEach(background => {
@@ -77,6 +79,20 @@ const toggleTheme = () => {
             table.classList.remove('table-dark');
             table.classList.add('table-light');   
         });             
+    }
+    
+    if (lightCarousel.length) {
+        lightCarousel.forEach(carousel => {
+            carousel.classList.remove('carousel-light');
+            carousel.classList.add('carousel-dark');            
+        });
+    }
+
+    if (darkCarousel.length) {
+        darkCarousel.forEach(carousel => {
+            carousel.classList.remove('carousel-dark');
+            carousel.classList.add('carousel-light');            
+        });
     }
 }
 
