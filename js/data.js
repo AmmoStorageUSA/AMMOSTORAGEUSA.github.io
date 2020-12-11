@@ -12,7 +12,7 @@ let data = [
     }, {
         img: "img/9mm_Aguila_1E097700.jpg",
         desc: "Aguila 9mm Luger 115 Grain FMJ",
-        count: "100 round box",
+        count: "300 round box",
         price: "$240"
     }, {
         img: "img/9mm_CCI_51991bb.jpg",
