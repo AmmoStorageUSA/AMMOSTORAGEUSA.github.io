@@ -3,12 +3,12 @@ let data = [
         img: "img/9mm_Winchester_WNUSA9MMVPBX.jpg",
         desc: "Winchester USA 9mm Luger 115 Grain TMJ",
         count: "100 round box",
-        price: "$75"
+        price: "$80"
     }, {
         img: "img/9mm_Winchester_USA9W.jpg",
         desc: "Winchester USA 9mm Luger 115 Grain TMJ",
         count: "200 round box",
-        price: "$150"
+        price: "$160"
     }, {
         img: "img/9mm_Aguila_1E097700.jpg",
         desc: "Aguila 9mm Luger 115 Grain FMJ",
@@ -69,6 +69,11 @@ let data = [
         desc: "Wolf Military Classic 123 Grain FMJ Steel Case",
         count: "700 rounds in Sealed Tin",
         price: "$350"
+    }, {
+        img: "img/7.62_RedArmy_AM3266.jpg",
+        desc: "7.62x39mm Red Army Standard 122 Grain FMJ Steel Case",
+        count: "640 rounds in Sealed Tin",
+        price: "$320"
     }, {
         img: "img/7.62_Norma_295540020.JPG",
         desc: "7.62x39mm Norma 124 Grain FMJ Brass Case",
