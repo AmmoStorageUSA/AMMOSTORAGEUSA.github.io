@@ -70,7 +70,7 @@ let data = [
         count: "700 rounds in Sealed Tin",
         price: "$350"
     }, {
-        img: "img/7.62_Norma_295540020.jpg",
+        img: "img/7.62_Norma_295540020.JPG",
         desc: "7.62x39mm Norma 124 Grain FMJ Brass Case",
         count: "20 round box",
         price: "$25"
