@@ -45,6 +45,11 @@ let data = [
         count: "1000 round box loose",
         price: "$800"
     }, {
+        img: "img/5.56_Winchester_USA855L1W.jpg",
+        desc: "5.56mm NATO  Winchester USA M855 Penetrator Green Tip 62 Grain FMJ",
+        count: "150 round box",
+        price: "$200"
+    }, {
         img: "img/223_Fiocchi_223a.jpg",
         desc: "Fiocchi .223 Remington 55 Grain FMJ",
         count: "50 round box",
@@ -114,6 +119,11 @@ let data = [
         desc: "Magtech 40 S&W 180 Grain FMJ",
         count: "50 round box",
         price: "$35"
+    }, {
+        img: "img/38_Armscor_ FAC38SUPER.jpg",
+        desc: "38 Super Armscor 125 Grain FJM",
+        count: "50 round box",
+        price: "$30"
     }, {
         img: "img/380_CCI_5202.jpg",
         desc: "380 ACP CCI Blazer Brass 95 grain FMJ",
