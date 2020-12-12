@@ -108,15 +108,20 @@ let data = [
         img: "img/45_Winchester_USA45W.jpg",
         desc: "Winchester USA .45ACP 230 Grain FMJ",
         count: "200 round box",
-        price: "$140"
+        price: "$180"
     }, {
         img: "img/40_Winchester_SXZ40T.jpg",
         desc: "Winchester SXZ .40 S&W 180 Grain FMJ",
         count: "50 round box",
         price: "$35"
     }, {
+        img: "img/40_Winchester_usa40w.jpg",
+        desc: ".40 S&W Winchester USA White Box 165 grain FMJ",
+        count: "200 round box",
+        price: "$140"
+    }, {
         img: "img/9mm_Magtech_9A.jpg",
-        desc: "Magtech 40 S&W 180 Grain FMJ",
+        desc: "Magtech .40 S&W 180 Grain FMJ",
         count: "50 round box",
         price: "$35"
     }, {
