@@ -125,6 +125,11 @@ let data = [
         count: "50 round box",
         price: "$35"
     }, {
+        img: "img/38_PPU_PPH38SL.jpeg",
+        desc: ".38 Special PPU Prvi Partizan 158 Grain LRN",
+        count: "50 round box",
+        price: "$40"
+    }, {
         img: "img/38_Armscor_ FAC38SUPER.jpg",
         desc: "38 Super Armscor 125 Grain FJM",
         count: "50 round box",
