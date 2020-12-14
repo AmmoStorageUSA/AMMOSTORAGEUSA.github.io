@@ -3,27 +3,27 @@ let data = [
         img: "img/9mm_Winchester_WNUSA9MMVPBX.jpg",
         desc: "Winchester USA 9mm Luger 115 Grain TMJ",
         count: "100 round box",
-        price: "$80"
+        price: "$70"
     }, {
         img: "img/9mm_Winchester_USA9W.jpg",
         desc: "Winchester USA 9mm Luger 115 Grain TMJ",
         count: "200 round box",
-        price: "$160"
+        price: "$140"
     }, {
         img: "img/9mm_Aguila_1E097700.jpg",
         desc: "Aguila 9mm Luger 115 Grain FMJ",
         count: "300 round box",
-        price: "$240"
+        price: "$210"
     }, {
         img: "img/9mm_CCI_51991bb.jpg",
         desc: "CCI Blazer Brass 9mm Luger 115 Grain FMJ",
         count: "100 round box",
-        price: "$80"
+        price: "$70"
     }, {
         img: "img/9mm_Speer_53620.JPG",
         desc: "Speer Lawman 9mm Luger 147 Grain FMJ",
         count: "50 round box",
-        price: "$40"
+        price: "$35"
     }, {
         img: "img/9mm_Fiocchi_9AP.jpg",
         desc: "Fiocchi 9mm Luger 115 Grain FMJ",
@@ -38,37 +38,37 @@ let data = [
         img: "img/9mm_S&B_SB9D.jpg",
         desc: "Sellier & Bellot 9mm Luger 124 Grain JHP",
         count: "50 round box",
-        price: "$50"
+        price: "$40"
     }, {
         img: "img/556_Federal_XM193BK.jpg",
         desc: "Federal American Eagle 5.56mm NATO XM193 55 Grain FMJ",
         count: "1000 round box loose",
-        price: "$800"
+        price: "$700"
     }, {
         img: "img/5.56_Winchester_USA855L1W.jpg",
         desc: "5.56mm NATO  Winchester USA M855 Penetrator Green Tip 62 Grain FMJ",
         count: "150 round box",
-        price: "$200"
+        price: "$150"
     }, {
         img: "img/223_Fiocchi_223a.jpg",
         desc: "Fiocchi .223 Remington 55 Grain FMJ",
         count: "50 round box",
-        price: "$45"
+        price: "$40"
     }, {
         img: "img/223_PMC_223A.jpg",
         desc: "PMC Bronze .223 Remington 55 Grain FMJ-BT",
         count: "20 round box",
-        price: "$18"
+        price: "$16"
     }, {
         img: "img/223_Federal_AE223.jpg",
         desc: "Federal American Eagle .223 Remington 55 Grain FMJ-BT",
         count: "20 round box",
-        price: "$18"
+        price: "$16"
     }, {
         img: "img/7.62_Prvi_PP76239B.jpg",
         desc: "7.62x39mm Prvi Partizan 123 Grain FMJ Steel Case",
         count: "840 round case",
-        price: "$600"
+        price: "$540"
     }, {
         img: "img/7.62_Wolf_ MC762FMJTIN.jpg",
         desc: "Wolf Military Classic 123 Grain FMJ Steel Case",
@@ -83,7 +83,7 @@ let data = [
         img: "img/7.62_Norma_295540020.JPG",
         desc: "7.62x39mm Norma 124 Grain FMJ Brass Case",
         count: "20 round box",
-        price: "$25"
+        price: "$22"
     }, {
         img: "img/300_PPU_PP300BH.jpg",
         desc: "PPU Prvi Partizan 300 AAC Blackout 125 Grain HPBT",
@@ -98,17 +98,17 @@ let data = [
         img: "img/45_Magtech 45A.jpg",
         desc: "Magtech .45ACP 230 Grain FMJ",
         count: "50 round box",
-        price: "$45"
+        price: "$40"
     }, {
         img: "img/45_Winchester_USA45W.jpg",
         desc: "Winchester USA .45ACP 230 Grain FMJ",
         count: "50 round box",
-        price: "$45"
+        price: "$40"
     }, {
         img: "img/45_Winchester_USA45W.jpg",
         desc: "Winchester USA .45ACP 230 Grain FMJ",
         count: "200 round box",
-        price: "$180"
+        price: "$140"
     }, {
         img: "img/40_Winchester_SXZ40T.jpg",
         desc: "Winchester SXZ .40 S&W 180 Grain FMJ",
@@ -118,7 +118,7 @@ let data = [
         img: "img/40_Winchester_usa40w.jpg",
         desc: ".40 S&W Winchester USA White Box 165 grain FMJ",
         count: "200 round box",
-        price: "$140"
+        price: "$125"
     }, {
         img: "img/9mm_Magtech_9A.jpg",
         desc: "Magtech .40 S&W 180 Grain FMJ",
@@ -138,7 +138,7 @@ let data = [
         img: "img/357_Federal_ AE357A.jpg",
         desc: ".357 Magnum Federal American Eagle 158 Grain Jacketed Soft Point",
         count: "50 round box",
-        price: "$45"
+        price: "$40"
     }, {
         img: "img/10mm_Blazer_5221.jpg",
         desc: "CCI Blazer Brass 10mm Auto 180 Grain FMJ",
