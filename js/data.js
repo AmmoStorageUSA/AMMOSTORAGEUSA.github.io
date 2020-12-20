@@ -140,11 +140,6 @@ let data = [
         count: "50 round box",
         price: "$30"
     }, {
-        img: "img/380_CCI_5202.jpg",
-        desc: "380 ACP CCI Blazer Brass 95 grain FMJ",
-        count: "50 round box",
-        price: "$45"
-    }, {
         img: "img/357_Federal_ AE357A.jpg",
         desc: ".357 Magnum Federal American Eagle 158 Grain Jacketed Soft Point",
         count: "50 round box",
