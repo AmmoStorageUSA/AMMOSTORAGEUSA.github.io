@@ -108,7 +108,7 @@ let data = [
         img: "img/45_Winchester_USA45W.jpg",
         desc: "Winchester USA .45ACP 230 Grain FMJ",
         count: "200 round box",
-        price: "$100"
+        price: "$140"
     }, {
         img: "img/40_Winchester_usa40w.jpg",
         desc: ".40 S&W Winchester USA White Box 165 grain FMJ",
