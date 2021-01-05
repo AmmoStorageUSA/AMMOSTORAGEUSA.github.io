@@ -55,11 +55,6 @@ let data = [
         count: "150 round box",
         price: "$135"
     }, {
-        img: "img/223_PMC_223A.jpg",
-        desc: "PMC Bronze .223 Remington 55 Grain FMJ-BT",
-        count: "20 round box",
-        price: "$15"
-    }, {
         img: "img/223_Federal_AE223.jpg",
         desc: "Federal American Eagle .223 Remington 55 Grain FMJ-BT",
         count: "20 round box",
@@ -104,11 +99,6 @@ let data = [
         desc: "Winchester USA .45ACP 230 Grain FMJ",
         count: "50 round box",
         price: "$30"
-    }, {
-        img: "img/45_Winchester_USA45W.jpg",
-        desc: "Winchester USA .45ACP 230 Grain FMJ",
-        count: "200 round box",
-        price: "$140"
     }, {
         img: "img/40_Winchester_usa40w.jpg",
         desc: ".40 S&W Winchester USA White Box 165 grain FMJ",
