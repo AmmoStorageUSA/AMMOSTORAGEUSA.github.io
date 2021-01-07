@@ -3,7 +3,7 @@ let data = [
         img: "img/9mm_Federal_AE9DP_1000.jpg",
         desc: "9mm Luger Federal American Eagle 115 Grain FMJ",
         count: "1000 round case (20 boxes 50 rounds)",
-        price: "$615"
+        price: "$600"
     }, {
         img: "img/9mm_Winchester_WNUSA9MMVPBX.jpg",
         desc: "Winchester USA 9mm Luger 115 Grain TMJ",
