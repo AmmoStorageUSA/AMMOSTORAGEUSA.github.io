@@ -93,12 +93,12 @@ let data = [
         img: "img/45_Magtech 45A.jpg",
         desc: "Magtech .45ACP 230 Grain FMJ",
         count: "50 round box",
-        price: "$30"
+        price: "$40"
     }, {
         img: "img/45_Winchester_USA45W.jpg",
         desc: "Winchester USA .45ACP 230 Grain FMJ",
         count: "50 round box",
-        price: "$30"
+        price: "$40"
     }, {
         img: "img/40_Winchester_usa40w.jpg",
         desc: ".40 S&W Winchester USA White Box 165 grain FMJ",
