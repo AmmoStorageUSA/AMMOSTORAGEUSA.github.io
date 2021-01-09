@@ -3,17 +3,17 @@ let data = [
         img: "img/9mm_Federal_AE9DP_1000.jpg",
         desc: "9mm Luger Federal American Eagle 115 Grain FMJ",
         count: "1000 round case (20 boxes 50 rounds)",
-        price: "$600"
+        price: "$650"
     }, {
         img: "img/9mm_Winchester_WNUSA9MMVPBX.jpg",
         desc: "Winchester USA 9mm Luger 115 Grain TMJ",
         count: "100 round box",
-        price: "$60"
+        price: "$65"
     }, {
         img: "img/9mm_Winchester_USA9W.jpg",
         desc: "Winchester USA 9mm Luger 115 Grain TMJ",
         count: "200 round box",
-        price: "$120"
+        price: "$130"
     }, {
         img: "img/9mm_Aguila_1E097700.jpg",
         desc: "Aguila 9mm Luger 115 Grain FMJ",
@@ -33,15 +33,10 @@ let data = [
         img: "img/9mm_Fiocchi_9AP.jpg",
         desc: "Fiocchi 9mm Luger 115 Grain FMJ",
         count: "50 round box",
-        price: "$30"
+        price: "$35"
     }, {
         img: "img/9mm_TSA_TS9MMB.jpg",
         desc: "TSA Basic 9mm Luger 124 Grain FMJ",
-        count: "50 round box",
-        price: "$30"
-    }, {
-        img: "img/9mm_S&B_SB9D.jpg",
-        desc: "Sellier & Bellot 9mm Luger 124 Grain JHP",
         count: "50 round box",
         price: "$35"
     }, {
@@ -58,12 +53,7 @@ let data = [
         img: "img/223_Federal_AE223.jpg",
         desc: "Federal American Eagle .223 Remington 55 Grain FMJ-BT",
         count: "20 round box",
-        price: "$15"
-    }, {
-        img: "img/7.62_Prvi_PP76239B.jpg",
-        desc: "7.62x39mm Prvi Partizan 123 Grain FMJ Steel Case",
-        count: "840 round case",
-        price: "$465"
+        price: "$18"
     }, {
         img: "img/7.62_Wolf_ MC762FMJTIN.jpg",
         desc: "Wolf Military Classic 123 Grain FMJ Steel Case",
