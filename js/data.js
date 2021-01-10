@@ -98,12 +98,12 @@ let data = [
         img: "img/38_PPU_PPH38SL.jpeg",
         desc: ".38 Special PPU Prvi Partizan 158 Grain LRN",
         count: "50 round box",
-        price: "$40"
+        price: "$45"
     }, {
         img: "img/10mm_Blazer_5221.jpg",
         desc: "CCI Blazer Brass 10mm Auto 180 Grain FMJ",
         count: "50 round box",
-        price: "$45"
+        price: "$40"
     }, {
         img: "img/Magazine_Brownells_AR15.jpg",
         desc: "Brownells AR-15 Mil-Spec USGI 5.56/.223 30/round Magazine Magpul Follower & Stainless Steel Spring",
