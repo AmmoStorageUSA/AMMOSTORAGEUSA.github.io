@@ -13,7 +13,7 @@ let data = [
         img: "img/9mm_Winchester_USA9W.jpg",
         desc: "Winchester USA 9mm Luger 115 Grain TMJ",
         count: "200 round box",
-        price: "$130"
+        price: "$160"
     }, {
         img: "img/9mm_Aguila_1E097700.jpg",
         desc: "Aguila 9mm Luger 115 Grain FMJ",
@@ -23,7 +23,7 @@ let data = [
         img: "img/9mm_CCI_51991bb.jpg",
         desc: "CCI Blazer Brass 9mm Luger 115 Grain FMJ",
         count: "100 round box",
-        price: "$70"
+        price: "$80"
     }, {
         img: "img/9mm_Speer_53620.JPG",
         desc: "Speer Lawman 9mm Luger 147 Grain FMJ",
@@ -85,7 +85,7 @@ let data = [
         count: "100 round box",
         price: "$70"
     }, {
-        img: "40_Federal_ AE40R1.jpg",
+        img: "40_Federal_AE40R1.jpg",
         desc: ".40 S&W Federal American Eagle 180 Grain FMJ",
         count: "50 round box",
         price: "$40"
