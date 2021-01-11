@@ -85,6 +85,11 @@ let data = [
         count: "100 round box",
         price: "$80"
     }, {
+        img: "img/40_Defender.jpg",
+        desc: ".40 S&W Defender 180 grain FMJ",
+        count: "50 round box",
+        price: "$35"
+    }, {
         img: "40_Federal_AE40R1.jpg",
         desc: ".40 S&W Federal American Eagle 180 Grain FMJ",
         count: "50 round box",
