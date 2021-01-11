@@ -43,12 +43,12 @@ let data = [
         img: "img/556_Federal_XM193BK.jpg",
         desc: "Federal American Eagle 5.56mm NATO XM193 55 Grain FMJ",
         count: "1000 round box loose",
-        price: "$700"
+        price: "$800"
     }, {
         img: "img/5.56_Winchester_USA855L1W.jpg",
         desc: "5.56mm NATO  Winchester USA M855 Penetrator Green Tip 62 Grain FMJ",
         count: "150 round box",
-        price: "$140"
+        price: "$150"
     }, {
         img: "img/7.62_Norma_295540020.JPG",
         desc: "7.62x39mm Norma 124 Grain FMJ Brass Case",
@@ -78,12 +78,12 @@ let data = [
         img: "img/40_Winchester_usa40w.jpg",
         desc: ".40 S&W Winchester USA White Box 165 grain FMJ",
         count: "200 round box",
-        price: "$140"
+        price: "$160"
     }, {
         img: "img/40_Winchester_usa40w.jpg",
         desc: ".40 S&W Winchester USA White Box 165 grain FMJ",
         count: "100 round box",
-        price: "$70"
+        price: "$80"
     }, {
         img: "40_Federal_AE40R1.jpg",
         desc: ".40 S&W Federal American Eagle 180 Grain FMJ",
@@ -108,7 +108,7 @@ let data = [
         img: "img/Magazine_Brownells_AR15.jpg",
         desc: "Brownells AR-15 Mil-Spec USGI 5.56/.223 30/round Magazine Magpul Follower & Stainless Steel Spring",
         count: "Single Unit",
-        price: "$20"
+        price: "$25"
     },
 ];
 export default data;
