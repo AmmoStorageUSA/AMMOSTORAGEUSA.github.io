@@ -85,12 +85,12 @@ let data = [
         count: "50 round box",
         price: "$35"
     }, {
-        img: "40_Federal_AE40R1.jpg",
+        img: "img/40_Federal_AE40R1.jpg",
         desc: ".40 S&W Federal American Eagle 180 Grain FMJ",
         count: "50 round box",
         price: "$40"
     }, {
-        img: "40_Federal_AE100.jpg",
+        img: "img/40_Federal_AE100.jpg",
         desc: ".40 S&W Federal American Eagle 180 Grain FMJ",
         count: "100 round box",
         price: "$80"
