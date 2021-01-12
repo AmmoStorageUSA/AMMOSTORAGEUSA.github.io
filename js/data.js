@@ -35,11 +35,6 @@ let data = [
         count: "50 round box",
         price: "$45"
     }, {
-        img: "img/9mm_TSA_TS9MMB.jpg",
-        desc: "TSA Basic 9mm Luger 124 Grain FMJ",
-        count: "50 round box",
-        price: "$40"
-    }, {
         img: "img/556_Federal_XM193BK.jpg",
         desc: "Federal American Eagle 5.56mm NATO XM193 55 Grain FMJ",
         count: "1000 round box loose",
@@ -68,12 +63,12 @@ let data = [
         img: "img/40_Winchester_usa40w.jpg",
         desc: ".40 S&W Winchester USA White Box 165 grain FMJ",
         count: "200 round box",
-        price: "$180"
+        price: "$160"
     }, {
         img: "img/40_Winchester_usa40w.jpg",
         desc: ".40 S&W Winchester USA White Box 165 grain FMJ",
         count: "100 round box",
-        price: "$90"
+        price: "$80"
     }, {
         img: "img/40_Defender.jpg",
         desc: ".40 S&W Defender 180 grain FMJ",
