@@ -60,11 +60,6 @@ let data = [
         count: "20 round box",
         price: "$40"
     }, {
-        img: "img/6.5_Federal_ AE65CRD3.jpg",
-        desc: "6.5mm Creedmoor Federal American Eagle 120 Grain",
-        count: "20 round box",
-        price: "$40"
-    }, {
         img: "img/45_Winchester_USA45W.jpg",
         desc: "Winchester USA .45ACP 230 Grain FMJ",
         count: "100 round box",
