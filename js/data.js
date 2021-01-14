@@ -45,11 +45,6 @@ let data = [
         count: "1000 round box loose",
         price: "$900"
     }, {
-        img: "img/5.56_Winchester_USA855L1W.jpg",
-        desc: "5.56mm NATO  Winchester USA M855 Penetrator Green Tip 62 Grain FMJ",
-        count: "150 round box",
-        price: "$150"
-    }, {
         img: "img/300_PPU_PP300BH.jpg",
         desc: "PPU Prvi Partizan 300 AAC Blackout 125 Grain HPBT",
         count: "20 round box",
