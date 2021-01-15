@@ -38,7 +38,7 @@ let data = [
         img: "img/9mm_TSA_TS9MMB.jpg",
         desc: "Target Sports 9mm Luger 124 Grain FMJ",
         count: "50 round box",
-        price: "$35"
+        price: "$40"
     }, {
         img: "img/556_Federal_XM193BK.jpg",
         desc: "Federal American Eagle 5.56mm NATO XM193 55 Grain FMJ",
@@ -63,37 +63,32 @@ let data = [
         img: "img/40_Winchester_usa40w.jpg",
         desc: ".40 S&W Winchester USA White Box 165 grain FMJ",
         count: "200 round box",
-        price: "$140"
+        price: "$160"
     }, {
         img: "img/40_Winchester_usa40w.jpg",
         desc: ".40 S&W Winchester USA White Box 165 grain FMJ",
         count: "100 round box",
-        price: "$70"
+        price: "$80"
     }, {
         img: "img/40_Defender.jpg",
         desc: ".40 S&W Defender 180 grain FMJ",
         count: "50 round box",
-        price: "$35"
+        price: "$40"
     }, {
         img: "img/40_Federal_AE40R1.jpg",
         desc: ".40 S&W Federal American Eagle 180 Grain FMJ",
         count: "50 round box",
-        price: "$35"
+        price: "$40"
     }, {
         img: "img/40_Federal_AE100.jpg",
         desc: ".40 S&W Federal American Eagle 180 Grain FMJ",
         count: "100 round box",
-        price: "$70"
-    }, {
-        img: "img/38_PPU_PPH38SL.jpeg",
-        desc: ".38 Special PPU Prvi Partizan 158 Grain LRN",
-        count: "50 round box",
-        price: "$50"
+        price: "$80"
     }, {
         img: "img/10mm_Blazer_5221.jpg",
         desc: "CCI Blazer Brass 10mm Auto 180 Grain FMJ",
         count: "50 round box",
-        price: "$40"
+        price: "$45"
     }, {
         img: "img/Magazine_Brownells_AR15.jpg",
         desc: "Brownells AR-15 Mil-Spec USGI 5.56/.223 30/round Magazine Magpul Follower & Stainless Steel Spring",
