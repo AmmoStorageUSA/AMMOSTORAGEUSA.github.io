@@ -20,6 +20,11 @@ let data = [
         count: "300 round box",
         price: "$240"
     }, {
+        img: "img/9mm_PMC_PMC-9G.jpg",
+        desc: "PMC Bronze 9mm Luger 124 Grain FMJ",
+        count: "100 round box",
+        price: "$80"
+    }, {
         img: "img/9mm_CCI_51991bb.jpg",
         desc: "CCI Blazer Brass 9mm Luger 115 Grain FMJ",
         count: "100 round box",
