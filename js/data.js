@@ -50,11 +50,6 @@ let data = [
         count: "1000 round box loose",
         price: "$900"
     }, {
-        img: "img/300_PPU_PP300BH.jpg",
-        desc: "PPU Prvi Partizan 300 AAC Blackout 125 Grain HPBT",
-        count: "20 round box",
-        price: "$40"
-    }, {
         img: "img/45_Winchester_USA45W.jpg",
         desc: "Winchester USA .45ACP 230 Grain FMJ",
         count: "100 round box",
