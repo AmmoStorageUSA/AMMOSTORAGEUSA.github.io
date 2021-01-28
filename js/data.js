@@ -75,11 +75,6 @@ let data = [
         count: "100 round box",
         price: "$80"
     }, {
-        img: "img/10mm_Blazer_5221.jpg",
-        desc: "CCI Blazer Brass 10mm Auto 180 Grain FMJ",
-        count: "50 round box",
-        price: "$45"
-    }, {
         img: "img/Magazine_Brownells_AR15.jpg",
         desc: "Brownells AR-15 Mil-Spec USGI 5.56/.223 30/round Magazine Magpul Follower & Stainless Steel Spring",
         count: "Single Unit",
