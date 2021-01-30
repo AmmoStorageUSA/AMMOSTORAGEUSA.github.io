@@ -45,6 +45,11 @@ let data = [
         count: "1000 round box loose",
         price: "$900"
     }, {
+        img: "img/22_CCI_110138.jpg",
+        desc: "CCI Blazer .22LR 38 Grain LRN",
+        count: "425 round box",
+        price: "$100"
+    }, {
         img: "img/45_Winchester_USA45W.jpg",
         desc: "Winchester USA .45ACP 230 Grain FMJ",
         count: "100 round box",
