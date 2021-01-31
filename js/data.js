@@ -40,11 +40,6 @@ let data = [
         count: "50 round box",
         price: "$40"
     }, {
-        img: "img/556_Federal_XM193BK.jpg",
-        desc: "Federal American Eagle 5.56mm NATO XM193 55 Grain FMJ",
-        count: "1000 round box loose",
-        price: "$900"
-    }, {
         img: "img/22_CCI_110138.jpg",
         desc: "CCI Blazer .22LR 38 Grain LRN",
         count: "425 round box",
