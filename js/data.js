@@ -20,11 +20,6 @@ let data = [
         count: "100 round box",
         price: "$80"
     }, {
-        img: "img/9mm_Speer_53620.JPG",
-        desc: "Speer Lawman 9mm Luger 147 Grain FMJ",
-        count: "50 round box",
-        price: "$40"
-    }, {
         img: "img/9mm_TSA_TS9MMB.jpg",
         desc: "Target Sports 9mm Luger 124 Grain FMJ",
         count: "50 round box",
@@ -33,11 +28,6 @@ let data = [
         img: "img/22_CCI_110138.jpg",
         desc: "CCI Blazer .22LR 38 Grain LRN",
         count: "425 round box",
-        price: "$100"
-    }, {
-        img: "img/45_Winchester_USA45W.jpg",
-        desc: "Winchester USA .45ACP 230 Grain FMJ",
-        count: "100 round box",
         price: "$90"
     }, {
         img: "img/40_Winchester_usa40w.jpg",
