@@ -25,7 +25,7 @@ let data = [
         count: "50 round box",
         price: "$40"
     }, {
-        img: "img/22_CCI_110138.jpg",
+        img: "img/955112-1.jpg",
         desc: "CCI Blazer .22LR 38 Grain LRN",
         count: "425 round box",
         price: "$90"
