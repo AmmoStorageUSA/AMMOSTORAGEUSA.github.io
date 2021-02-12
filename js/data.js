@@ -3,12 +3,12 @@ let data = [
         img: "img/9mm_Winchester_WNUSA9MMVPBX.jpg",
         desc: "Winchester USA 9mm Luger 115 Grain TMJ",
         count: "100 round box",
-        price: "$75"
+        price: "$70"
     }, {
         img: "img/9mm_Winchester_USA9W.jpg",
         desc: "Winchester USA 9mm Luger 115 Grain TMJ",
         count: "200 round box",
-        price: "$150"
+        price: "$140"
     }, {
         img: "img/9mm_Aguila_1E097700.jpg",
         desc: "Aguila 9mm Luger 115 Grain FMJ",
@@ -18,7 +18,7 @@ let data = [
         img: "img/9mm_CCI_51991bb.jpg",
         desc: "CCI Blazer Brass 9mm Luger 115 Grain FMJ",
         count: "100 round box",
-        price: "$75"
+        price: "$70"
     }, {
         img: "img/9mm_TSA_TS9MMB.jpg",
         desc: "Target Sports 9mm Luger 124 Grain FMJ",
