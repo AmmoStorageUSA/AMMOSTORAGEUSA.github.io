@@ -5,11 +5,6 @@ let data = [
         count: "100 round box",
         price: "$70"
     }, {
-        img: "img/9mm_Winchester_USA9W.jpg",
-        desc: "Winchester USA 9mm Luger 115 Grain TMJ",
-        count: "200 round box",
-        price: "$140"
-    }, {
         img: "img/9mm_Aguila_1E097700.jpg",
         desc: "Aguila 9mm Luger 115 Grain FMJ",
         count: "300 round box",
